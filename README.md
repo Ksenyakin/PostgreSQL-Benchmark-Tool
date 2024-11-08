@@ -15,7 +15,7 @@
 
 1. **Клонирование репозитория**:
    ```bash
-   git clone https://github.com/your-username/postgresql-benchmark-tool.git
+   git clone https://github.com/ksenyakin/postgresql-benchmark-tool.git
    cd postgresql-benchmark-tool
    ```
 
