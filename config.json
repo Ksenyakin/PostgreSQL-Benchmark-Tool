@@ -1,0 +1,5 @@
+{
+  "query": "SELECT * FROM users WHERE status = 'active'",
+  "dsn": "postgres://postgres:12345678@localhost:5432/TestTask?sslmode=disable",
+  "duration_ms": 10000
+}
