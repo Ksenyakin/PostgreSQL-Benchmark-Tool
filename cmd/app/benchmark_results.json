@@ -1,0 +1,5 @@
+{"total_requests":18355,"successful":18355,"failed":0,"average_time_ms":3.2718467338599844,"min_response_time_ms":0.0285,"max_response_time_ms":225.3529,"timestamp":"2024-11-10T18:01:11+03:00"}
+{"total_requests":15247,"successful":15247,"failed":0,"average_time_ms":3.932268065848994,"min_response_time_ms":0.0112,"max_response_time_ms":242.8963,"timestamp":"2024-11-10T20:16:55+03:00"}
+{"total_requests":0,"successful":0,"failed":463,"average_time_ms":0,"min_response_time_ms":0,"max_response_time_ms":0,"timestamp":"2024-11-11T21:05:07+03:00"}
+{"total_requests":1727,"successful":1727,"failed":0,"average_time_ms":3.706601100173702,"min_response_time_ms":0.1735,"max_response_time_ms":236.482,"timestamp":"2024-11-11T21:05:22+03:00"}
+{"total_requests":1221,"successful":1221,"failed":0,"average_time_ms":5.222201719901725,"min_response_time_ms":0.2333,"max_response_time_ms":203.2123,"timestamp":"2024-11-11T21:13:44+03:00"}
